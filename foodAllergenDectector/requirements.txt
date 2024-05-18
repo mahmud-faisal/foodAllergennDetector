@@ -1,0 +1,8 @@
+Flask
+Flask-WTF
+joblib
+numpy
+pandas
+scikit-learn
+pytesseract
+Pillow
